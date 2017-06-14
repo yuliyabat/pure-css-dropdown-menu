@@ -11,7 +11,7 @@ Example of Simple CSS Dropdown Menu
 Link CSS
 
 ```html
-<link rel="stylesheet" href="/path/to/hmenu.css">
+<link rel="stylesheet" href="/path/to/menu.css">
 ```
 
 Prepare your HTML
